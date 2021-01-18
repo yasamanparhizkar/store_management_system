@@ -1,0 +1,10 @@
+add_user Yasaman Parhizkar Saphira 09022523512 10000 seller
+add_user Parmida Parhizkar Saphira 09021234567 10890 seller
+add_user Reihane Ghoroghchian yoohan 09123456734 1500 buyer
+add_user Reihane Ghoroghchian yoohan 09123456734 1500 buyer
+add_user Reihane Ghoroghchian yoohan 09123456734 1500 seller
+add_goods Saphira watch 1000 20
+add_goods yoohan watch 1000 20
+add_goods Saphira watch 1000 31
+add_goods Saphira clock 1500 31
+

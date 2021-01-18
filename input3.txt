@@ -1,0 +1,20 @@
+add_user Yasaman Parhizkar Saphira 09022523512 10000 seller
+add_user Yasaman Parhizkar Saphira 09022523512 10000 buyer
+add_user Parmida Parhizkar Jigar 09021234567 18900 seller
+add_user Reihane Ghoroghchian Yoohan 09123456734 15000 buyer
+add_goods Saphira watch 10 20
+add_goods Saphira clock 10 20
+add_goods Saphira food 10 20
+add_goods Jigar watch 10 20
+add_goods Jigar clock 10 20
+add_goods Jigar food 10 20
+buy Yoohan watch 10 Saphira,
+watch 11 Saphira,
+sock 3 Jigar,
+watch 10 Saphira;
+add_goods Saphira watch 10 20
+add_money yoohan 1000
+add_money Yoohan 1000
+
+
+
